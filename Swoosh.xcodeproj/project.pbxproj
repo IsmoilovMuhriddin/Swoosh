@@ -15,6 +15,7 @@
 		11EE3312208E13D4008ED241 /* BorderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11EE3311208E13D4008ED241 /* BorderButton.swift */; };
 		11EE3318209063F2008ED241 /* LeagueVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11EE3317209063F2008ED241 /* LeagueVC.swift */; };
 		11EE331A20906400008ED241 /* SkillVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11EE331920906400008ED241 /* SkillVC.swift */; };
+		11EE331C2093411D008ED241 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11EE331B2093411D008ED241 /* Player.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		11EE3311208E13D4008ED241 /* BorderButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderButton.swift; sourceTree = "<group>"; };
 		11EE3317209063F2008ED241 /* LeagueVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeagueVC.swift; sourceTree = "<group>"; };
 		11EE331920906400008ED241 /* SkillVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillVC.swift; sourceTree = "<group>"; };
+		11EE331B2093411D008ED241 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Player.swift; path = "Swoosh/New Group/Player.swift"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		11EE331620906335008ED241 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				11EE331B2093411D008ED241 /* Player.swift */,
 			);
 			name = Model;
 			path = "New Group1";
@@ -174,6 +177,7 @@
 				11EE3318209063F2008ED241 /* LeagueVC.swift in Sources */,
 				11EE32FF208DBA60008ED241 /* AppDelegate.swift in Sources */,
 				11EE331A20906400008ED241 /* SkillVC.swift in Sources */,
+				11EE331C2093411D008ED241 /* Player.swift in Sources */,
 				11EE3312208E13D4008ED241 /* BorderButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
